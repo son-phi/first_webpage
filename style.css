@@ -209,7 +209,6 @@ header {
     align-items: center;
     height: 5em;
     width: 70%;
-    /* border: #3f3d56 solid; */
     margin-left: 20px;
   }
 
@@ -292,9 +291,6 @@ header {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   text-decoration: none;
-}
-
-.banner__img {
 }
 
 .btn1 {
